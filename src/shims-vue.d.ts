@@ -1,0 +1,11 @@
+declare module 'wl-explorer'
+declare module 'pinia-plugin-persist'
+declare module 'qs'
+declare module '@kangc/v-md-editor/lib/preview'
+declare module '@kangc/v-md-editor/lib/theme/vuepress.js'
+declare module '@kangc/v-md-editor/lib/plugins/copy-code/index'
+declare module '@kangc/v-md-editor/lib/plugins/line-number/index'
+declare module '@kangc/v-md-editor/lib/plugins/emoji/index'
+declare module 'qrcodejs2'
+declare module 'prismjs'
+// xx即你包不能找到声明的包名
