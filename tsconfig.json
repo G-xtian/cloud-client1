@@ -13,7 +13,7 @@
     "skipLibCheck": true,
     "noEmit": true,
     "types": ["element-plus/global","vue/ref-macros","node"],
-
+    "allowJs": true,
   },
   "include": ["src/**/*.ts", "src/**/*.d.ts", "src/**/*.tsx", "src/**/*.vue"],
   "references": [{ "path": "./tsconfig.node.json" }]
